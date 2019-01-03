@@ -1,7 +1,7 @@
 # sproc_grant_exec
 
 ### Overview
-This script will grant EXECUTE permissions for a list of SQL Server users.
+This script will grant EXECUTE permissions to a stored procedure for a list of SQL Server users.
 
 ### Instructions
 1. Update lines 6-9 with your server name, database name, username and the usernames of the users for whom you would like to grant EXECUTE permissions.
